@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HeffernanTech.Extensions.FileLogger.Tests/HeffernanTech.Extensions.FileLogger.Tests.csproj" />
+  <Project Path="HeffernanTech.Extensions.FileLogger/HeffernanTech.Extensions.FileLogger.csproj" />
+</Solution>
